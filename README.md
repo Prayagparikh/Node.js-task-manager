@@ -20,9 +20,14 @@ Note: Give it upto 20 seconds to load. You can access to this website, however, 
 4. Locate to the http://localhost:5000 or the port number you have specified in {port} variable.
 
 ### Tech Used
-1. Node.js -> JavaScript runtime environment
-2. Express.js -> Node's web application framework, to simplify the HTTP server responses and to use middlewares.
-3. Atlas MongoDB -> Online and free cloud database service. Create a new 'Cluster' and click on the 'Connect' button to see the 'Connection_String'. You can check any youtube short tutorial to understand this, if facing any challenges.
-4. HTML/CSS/DOM JavaScript: For front-end
-5. Postman: To test the routes without building front-end first.
-6. RESTful Web Architecture: To use HTTP web protocol and HTTP methods(get, post, patch, delete) using Express.js.
+1. __Node.js__ -> JavaScript runtime environment.
+
+2. __Express.js__ -> Node's web application framework, to simplify the HTTP server responses and to use middlewares.
+
+3. __Atlas MongoDB__ -> Online and free cloud database service. Create a new 'Cluster' and click on the 'Connect' button to see the 'Connection_String'. You can check any youtube short tutorial to understand this, if facing any challenges.
+
+4. __HTML/CSS/DOM JavaScript__: For front-end
+
+5. __Postman__: To test the routes or endpoints without building front-end first.
+
+6. __RESTful Web Architecture__: To use HTTP web protocol and HTTP methods(get, post, patch, delete) using Express.js.
